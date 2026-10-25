@@ -1,4 +1,4 @@
-package it.unicam.cs.asdl2526.es10sol;
+package it.unicam.cs.asdl.esheapsol;
 
 /**
  * Interfaccia che consente di inserire oggetti generici in una coda con priorità
